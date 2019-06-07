@@ -32,6 +32,7 @@ section h2 {
 section h3 {
   font-size: 4rem;
   font-family: lobster;
+  font-weight: 400;
   color: rgba(255,255,255,0.8);
   text-align: center;
   margin-top: 2rem;
@@ -49,6 +50,7 @@ a:hover, a small:hover {
 .backdrop {
     position: fixed;
     font-family: lobster;
+    font-weight: 400;
     color: rgba(255,255,255,0.1);
     font-size: 15vw;
     z-index: -1;
